@@ -1,0 +1,8 @@
+{
+    "rules": {
+        "indent": ["error", 4],
+        "eqeqeq": "off",
+        "curly": "warn",
+        "quotes": ["warn", "double"]
+    }
+}
